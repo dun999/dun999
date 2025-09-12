@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Node/Blockchain Developing
 - 🌱 I’m currently learning Building dApp with Solidity and Learning Golang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fhirdan7@gmail.com
+- 📫 How to reach me 
 - 😄 Pronouns: dunn
 - ⚡ Fun fact: turtle cant fly
 
