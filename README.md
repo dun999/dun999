@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Firdan
-- 👀 I’m interested in Blockchain Node/Blockchain Developing
-- 🌱 I’m currently learning Building dApp with Solidity and Learning Golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: dunn
-- ⚡ Fun fact: turtle cant fly
+- 👋 Hi, I’m Dunn
+- a coder with less experience
+- create a website with html/css and next.js
+- looking for experience building in web3 dApp
+- 
+
 
 <!---
 dun999/dun999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
